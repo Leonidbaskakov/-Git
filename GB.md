@@ -126,3 +126,7 @@ git marge --abort
 git log --graph
 ```
 >Команда покажет основную ветку и дополнительные где и когда они отходят
+
+Вся работа проведена с помощью инструкции использования Markdown ссылка на него представлена ниже
+
+[Ссылка на справочник Markdown](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
