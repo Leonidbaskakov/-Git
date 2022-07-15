@@ -130,3 +130,8 @@ git log --graph
 Вся работа проведена с помощью инструкции использования Markdown ссылка на него представлена ниже
 
 [Ссылка на справочник Markdown](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
+
+**Работа с удалённым проектом с помощью git**
+```sh
+git clone ссылка на репозиторий
+```
